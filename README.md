@@ -111,7 +111,7 @@ After running an experiment, the following outputs will be automatically saved:
 
 ## Author
 
-Praneeth Dathu
+Praneeth Dathu, 
 Sai krishna mulakayala
 
 ## License
